@@ -1,0 +1,29 @@
+header {
+    background-color: #FFCC99;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 3px 3px 10px purple  ;
+} 
+
+main {
+    background-color: #E6F2FF;
+    margin:20px;
+    display: flex;
+}
+
+aside{
+    background-color: #B3D9FF;
+    flex:1;
+    border: solid 1px #CCC;
+}
+
+section {
+    flex:3;
+}
+
+footer {
+    background-color: #99CC99;
+    border: solid 1px #CCC;
+    text-shadow: 3px 3px 10px purple  ;
+
+}

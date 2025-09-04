@@ -1,3 +1,5 @@
 //Votre code ici
-
- export default add;
+const add = (a, b) => {
+  return Number(a) + Number(b);
+};
+export default add;
